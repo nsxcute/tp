@@ -1,0 +1,42 @@
+
+VC_2008_SP1_REDIST_X86 ID={820B6609-4C97-3A2B-B644-573B06A0F0CC}
+Visual C++ 2008 SP1 Redistributable Package (x86)
+**** NOT INSTALLED ****
+see: http://www.microsoft.com/downloads/details.aspx?familyid=A5C84275-3B97-4AB7-A40D-3802B2AF5FC2
+----------------------------------------
+VC_2008_SP1_MFC_SEC_UPD_REDIST_X86 ID={9BE518E6-ECC6-35A9-88E4-87755C07200F}
+Visual C++ 2008 SP1 MFC Security Update (x86)
+**** NOT INSTALLED ****
+see: http://www.microsoft.com/download/en/details.aspx?displaylang=en&id=26368
+----------------------------------------
+VC_2013_REDIST_X86_MIN ID={8122DAB1-ED4D-3676-BB0A-CA368196543E}
+Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40664
+**** NOT INSTALLED ****
+see: https://support.microsoft.com/en-us/help/4032938/
+----------------------------------------
+VC_2013_REDIST_X86_ADD ID={D401961D-3A20-3AC7-943B-6139D5BD490A}
+Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40664
+**** NOT INSTALLED ****
+see: https://support.microsoft.com/en-us/help/4032938/
+----------------------------------------
+VC_2017_REDIST_MIN_X86 ID={7753EC39-3039-3629-98BE-447C5D869C09}
+Visual C++ 2017 x86 Minimum Runtime - 14.14.26429
+**** NOT INSTALLED ****
+see: https://aka.ms/vs/15/release/VC_redist.x86.exe
+----------------------------------------
+VC_2017_REDIST_ADD_X86 ID={6F0267F3-7467-350D-A8C8-33B72E3658D8}
+Visual C++ 2017 x86 Additional Runtime - 14.14.26429
+**** NOT INSTALLED ****
+see: https://aka.ms/vs/15/release/VC_redist.x86.exe
+----------------------------------------
+VC_2008_SP1_REDIST_X64 ID={9B3F0A88-790D-3AD9-9F96-B19CF2746452}
+Visual C++ 2008 SP1 Redistributable Package (x64)
+**** NOT INSTALLED ****
+see: http://www.microsoft.com/downloads/details.aspx?familyid=BA9257CA-337F-4B40-8C14-157CFDFFEE4E
+----------------------------------------
+VC_2008_SP1_MFC_SEC_UPD_REDIST_X64 ID={5FCE6D76-F5DC-37AB-B2B8-22AB8CEDB1D4}
+Visual C++ 2008 SP1 MFC Security (x64)
+**** NOT INSTALLED ****
+see: http://www.microsoft.com/download/en/details.aspx?displaylang=en&id=26368
+----------------------------------------
+

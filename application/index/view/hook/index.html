@@ -1,0 +1,23 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>ThinkPHP 行为(Behavior)扩展以及插件(Plug or Hook)详解(含实例)
+    </title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Hook使用方法" />
+</head>
+<body>
+<h1>How to used?</h1>
+{:hook('ad', array('name'=>'AV','value'=>'*老师'))}
+<div>————————————————分割线1——————————————————</div>
+<div style="font-weight: bold ;color: #00ff00">{:hook('ad', array('name'=>'MV','value'=>'苍井空老师'))}</div>
+<div>————————————————分割线2——————————————————</div>
+<!--hook函数第一个参数是标签的名称，第二个参数随意-->
+<!--tag函数第一个参数是标签的名称，第二个一定是变量，因为tag函数是引址传递的参数-->
+<div>hook函数：{:hook('test', array('name'=>'World'))}<hr/></div>
+<div>tag函数：{:tag('mv',$param)}<hr/></div>
+<hr/>
+<div>tag函数：{:tag('action_begin',$param)}</div>
+</body>
+</html>
